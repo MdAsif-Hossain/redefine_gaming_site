@@ -29,7 +29,7 @@
 
 `redefine_gaming_site` is a sleek, modern front-end website designed to represent gaming content such as game showcases, trailers, community sections, etc. The aim is to provide an engaging, responsive, and performant experience for visitors.
 
-**Live site:** [PLACEHOLDER FOR SITE LINK]  
+**Live site:** [https://redefine-gaming-site.vercel.app/](https://redefine-gaming-site.vercel.app/)  
 
 ---
 
@@ -64,7 +64,7 @@
 | Styling       | Tailwind CSS                |
 | Language      | JavaScript (ES6+) + HTML    |
 | Configuration | PostCSS, Vite config, ESLint |
-| Deployment    | (e.g. Vercel, Netlify, GitHub Pages) |
+| Deployment    | Vercel                     |
 
 ---
 
@@ -188,5 +188,6 @@ This project is open source and distributed under the **MIT License**. See the [
 
 - [Tailwind CSS](https://tailwindcss.com/) — for the styling system  
 - [Vite](https://vitejs.dev/) — for fast build & dev tooling  
+- [Vercel](https://vercel.com/) — for deployment  
 - Any icons, illustrations, or inspirations you used  
 - Open-source community for helpful examples and tutorials  
